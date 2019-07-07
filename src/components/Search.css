@@ -1,0 +1,18 @@
+input{
+    border: none;
+    background-color: black;
+    margin: 1%;
+    text-align: center;
+    color: antiquewhite;
+    height: 30px;
+}
+input::placeholder{
+    color: antiquewhite;
+}
+.SearchArea{
+    padding: 2%;
+    background-color:rgb(47, 40, 95);
+ position: sticky;
+ top: 0; 
+ z-index: 1;
+}
