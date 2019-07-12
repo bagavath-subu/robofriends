@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "bagavath-subu.github.io/robofriends/static/css/main.597d7bea.chunk.css",
-    "main.js": "bagavath-subu.github.io/robofriends/static/js/main.4237a6b3.chunk.js",
-    "main.js.map": "bagavath-subu.github.io/robofriends/static/js/main.4237a6b3.chunk.js.map",
-    "runtime~main.js": "bagavath-subu.github.io/robofriends/static/js/runtime~main.37cff370.js",
-    "runtime~main.js.map": "bagavath-subu.github.io/robofriends/static/js/runtime~main.37cff370.js.map",
-    "static/css/2.31dafeb2.chunk.css": "bagavath-subu.github.io/robofriends/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.144dcb25.chunk.js": "bagavath-subu.github.io/robofriends/static/js/2.144dcb25.chunk.js",
-    "static/js/2.144dcb25.chunk.js.map": "bagavath-subu.github.io/robofriends/static/js/2.144dcb25.chunk.js.map",
-    "index.html": "bagavath-subu.github.io/robofriends/index.html",
-    "precache-manifest.9ec591191c2dcce19b6b6bac5b17144a.js": "bagavath-subu.github.io/robofriends/precache-manifest.9ec591191c2dcce19b6b6bac5b17144a.js",
-    "service-worker.js": "bagavath-subu.github.io/robofriends/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "bagavath-subu.github.io/robofriends/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.597d7bea.chunk.css.map": "bagavath-subu.github.io/robofriends/static/css/main.597d7bea.chunk.css.map"
+    "main.css": "/robofriends/static/css/main.597d7bea.chunk.css",
+    "main.js": "/robofriends/static/js/main.e2e97574.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.e2e97574.chunk.js.map",
+    "runtime~main.js": "/robofriends/static/js/runtime~main.fb41d28d.js",
+    "runtime~main.js.map": "/robofriends/static/js/runtime~main.fb41d28d.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robofriends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.144dcb25.chunk.js": "/robofriends/static/js/2.144dcb25.chunk.js",
+    "static/js/2.144dcb25.chunk.js.map": "/robofriends/static/js/2.144dcb25.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.34f5d240d28d938ef4355abd06c2d61d.js": "/robofriends/precache-manifest.34f5d240d28d938ef4355abd06c2d61d.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robofriends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.597d7bea.chunk.css.map": "/robofriends/static/css/main.597d7bea.chunk.css.map"
   }
 }
